@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-12T22:10:26.248Z",
+  "created_by": "saracarl",
+  "title": "Imported Event 1",
+  "slug": "imported-event-1",
+  "updated_at": "2025-02-12T22:10:26.248Z",
+  "updated_by": "saracarl",
+  "parent": "8b835a52-0bad-4b40-b714-6cb28b0bba1a",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "785b611e-8a47-48a8-846f-3e86b45cb373"
+  }
+}
