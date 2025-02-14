@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "da4d5ca9-6a31-44e7-b942-8e7671d8d230": {
+      "label": "AV File 1",
+      "file_url": "https://demo.aapb.wgbh-mla.org/media/cpb-aacip-512-125q815g35",
+      "duration": 4389
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "try 4"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-02-14T21:30:31.760Z",
+  "created_by": "saracarl",
+  "item_type": "Video",
+  "label": "Imported Event 1",
+  "updated_at": "2025-02-14T21:30:31.760Z",
+  "updated_by": "saracarl"
+}
