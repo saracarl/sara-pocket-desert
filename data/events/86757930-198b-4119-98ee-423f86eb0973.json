@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "20beff78-df2f-4ebd-ac97-55214d692544": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-512-125q815g35",
+      "duration": 4389
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "third try"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-02-14T18:03:01.640Z",
+  "created_by": "saracarl",
+  "item_type": "Audio",
+  "label": "Imported Event 1",
+  "updated_at": "2025-02-14T18:03:01.640Z",
+  "updated_by": "saracarl"
+}
